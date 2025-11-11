@@ -1,7 +1,5 @@
 
 # Olá👋, eu sou a Ana Carolina Lamann 💻💕
-"Um por do Sol de cada vez"
-
 ![Aninha Lamann GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninha-Lamann&show_icons=true&theme=jolly)
 
 ## Tecnologias do meu dia a dia
