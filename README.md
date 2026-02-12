@@ -1,6 +1,5 @@
 
 # Olá👋, eu sou a Ana Carolina Lamann 💻💕
-![Aninha Lamann GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninha-Lamann&show_icons=true&theme=jolly)
 
 ## Tecnologias do meu dia a dia
 <div style="display: inline_block">
